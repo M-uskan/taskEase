@@ -1,8 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A to-do list website is a digital tool designed to help users organize and manage their tasks and activities efficiently.
+Techstack:
+Frameworks/Libraries: React.js or Vue.js for building a dynamic and responsive user interface.
+Styling: Tailwind CSS, Bootstrap, or custom CSS for styling and layout.
